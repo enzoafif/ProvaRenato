@@ -1,0 +1,14 @@
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\bin\Debug\net8.0\ProvaRenato.exe
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\bin\Debug\net8.0\ProvaRenato.deps.json
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\bin\Debug\net8.0\ProvaRenato.runtimeconfig.json
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\bin\Debug\net8.0\ProvaRenato.dll
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\bin\Debug\net8.0\ProvaRenato.pdb
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\ProvaRenato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\ProvaRenato.AssemblyInfoInputs.cache
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\ProvaRenato.AssemblyInfo.cs
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\ProvaRenato.csproj.CoreCompileInputs.cache
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\ProvaRenato.dll
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\refint\ProvaRenato.dll
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\ProvaRenato.pdb
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\ProvaRenato.genruntimeconfig.cache
+C:\Users\046742\source\repos\ProvaRenato\ProvaRenato\obj\Debug\net8.0\ref\ProvaRenato.dll
